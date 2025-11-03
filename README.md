@@ -4,6 +4,12 @@ I am a Data Analytics Consultant skilled in **Tableau, SQL, and Alteryx**, curre
 
 ---
 
+## Achievements and Qualifications
+
+ - Alteryx Advanced, 2023
+ - Tableau Certified Data Analyst, 2023
+
+
 ## GitHub Stats
 
 <p align="left">
@@ -14,3 +20,6 @@ I am a Data Analytics Consultant skilled in **Tableau, SQL, and Alteryx**, curre
 
 - [LinkedIn](https://www.linkedin.com/in/ottorichardson)
 - [Tableau Public](https://public.tableau.com/app/profile/otto.richardson)
+
+Feel free to explore my work and connect if you share an interest in data and analytics!
+
