@@ -8,5 +8,4 @@ I am a Data Analytics Consultant skilled in **Tableau, SQL, and Alteryx**, curre
 
 <p align="left">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=OttoRichardson&show_icons=true&theme=tokyonight" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OttoRichardson&layout=compact&theme=tokyonight" />
 </p>
