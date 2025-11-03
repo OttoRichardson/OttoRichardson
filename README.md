@@ -13,3 +13,4 @@ I am a Data Analytics Consultant skilled in **Tableau, SQL, and Alteryx**, curre
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ottorichardson)
+- [Tableau Public](https://public.tableau.com/app/profile/otto.richardson)
