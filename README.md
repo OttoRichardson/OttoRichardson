@@ -1,6 +1,6 @@
 # Hi there, I'm Otto 👋
 
-I am a Data Analytics Consultant skilled in **Tableau, SQL, and Alteryx**, currently advancing my expertise in **data engineering** through an extension course. I am passionate expanding my analytics and engineering skills.
+I am a Data Analytics Consultant at the Information Lab, skilled in **Tableau, SQL, and Alteryx**, currently advancing my expertise in **data engineering** through an extension course. I am passionate expanding my analytics and engineering skills.
 
 ---
 
